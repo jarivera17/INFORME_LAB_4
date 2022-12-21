@@ -54,5 +54,6 @@ Comprobar experimentalmente el Teorema de Superposición.
 
  ![image](https://user-images.githubusercontent.com/116693260/208813608-d23432ba-51e4-490b-891e-abe5b2903806.png)
 
+ ![image](https://user-images.githubusercontent.com/116693260/208826307-cae37515-2c22-4f49-b12a-561fd4f31b05.png)
 
 
