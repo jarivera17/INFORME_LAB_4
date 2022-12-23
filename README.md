@@ -66,3 +66,6 @@ Comprobar experimentalmente el Teorema de Superposición.
 
  ![image](https://user-images.githubusercontent.com/116693260/208827826-2ae32880-0785-45a4-a120-cce87ca1f841.png)
 
+## 6. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
