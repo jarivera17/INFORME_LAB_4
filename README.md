@@ -69,13 +69,17 @@ Armar un circuito resistivo serie-paralelo en tinkercad, y mediante los instruen
  ![image](https://user-images.githubusercontent.com/116693260/208827738-aac48921-2a33-4687-9a77-4b099dd97951.png)
 
  ![image](https://user-images.githubusercontent.com/116693260/208827826-2ae32880-0785-45a4-a120-cce87ca1f841.png)
+ 
+## 6. VIDEO EXPLICATIVO 
 
-## 6. CONCLUSIONES
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EQQUU0D492JOnEp9sk6PUj4Bk5j2lgCy5aXQR8LhtV2LqQ?e=gLcmyB
+
+## 7. CONCLUSIONES
 
   * Se ha determinado de forma experimental, mediante un circuito resisitivo serie-paralelo, el valor de voltaje e intensidad de corriente en los resistores, aplicando el teorema de superposición.
   
   * En conclusión, el teorema de superposición permite analizar un circuito que contemple múltiples fuentes de voltaje y de corriente tomando en cuenta el los conceptos de que, las fuentes de corriente se abren y las fuentes de voltaje se ponen en cortocircuito.
 
-## 7. BIBLIOGRAFÍA
+## 8. BIBLIOGRAFÍA
 
 Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
