@@ -18,6 +18,10 @@ Objetivo General
 
 Comprobar experimentalmente el Teorema de Superposición.
 
+Objetivos Específicos
+
+Armar un circuito resistivo serie-paralelo en tinkercad, y mediante los instruentos de medición, aplicando el principio de superposición, determinar la corriente y voltaje en un resistor.
+
 ## 2. MARCO TEÓRICO
 
 ![13](https://user-images.githubusercontent.com/116693260/208801449-23dd1c76-46e6-4e97-a516-d988592d4101.jpg)
@@ -65,6 +69,12 @@ Comprobar experimentalmente el Teorema de Superposición.
  ![image](https://user-images.githubusercontent.com/116693260/208827738-aac48921-2a33-4687-9a77-4b099dd97951.png)
 
  ![image](https://user-images.githubusercontent.com/116693260/208827826-2ae32880-0785-45a4-a120-cce87ca1f841.png)
+
+## 6. CONCLUSIONES
+
+  * Se ha determinado de forma experimental, mediante un circuito resisitivo serie-paralelo, el valor de voltaje e intensidad de corriente en los resistores, aplicando el teorema de superposición.
+  
+  * En conclusión, el teorema de superposición permite analizar un circuito que contemple múltiples fuentes de voltaje y de corriente tomando en cuenta el los conceptos de que, las fuentes de corriente se abren y las fuentes de voltaje se ponen en cortocircuito.
 
 ## 6. BIBLIOGRAFÍA
 
