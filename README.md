@@ -76,6 +76,6 @@ Armar un circuito resistivo serie-paralelo en tinkercad, y mediante los instruen
   
   * En conclusión, el teorema de superposición permite analizar un circuito que contemple múltiples fuentes de voltaje y de corriente tomando en cuenta el los conceptos de que, las fuentes de corriente se abren y las fuentes de voltaje se ponen en cortocircuito.
 
-## 6. BIBLIOGRAFÍA
+## 7. BIBLIOGRAFÍA
 
 Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
